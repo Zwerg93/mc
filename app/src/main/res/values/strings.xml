@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">learnfortest8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutcontent">This is a Test in Kotlin of the 5BHITM. THis is the first test this year. I hope you like it :)</string>
+    <string name="runners">1,Marcel,pouget</string>
+</resources>
